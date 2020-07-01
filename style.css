@@ -80,7 +80,7 @@ section{
     text-align: center;
     font-size: 50px;
     font-weight: 500;
-    margin-top: 10%;
+    margin-top: 7%;
     margin-bottom: 5%;
 }
 
@@ -156,7 +156,6 @@ section{
 
 footer{
     text-align: center;
-    margin-bottom: 35px;
 }
 
 /*For Bonus Mark*/
@@ -164,7 +163,7 @@ footer{
     text-align: center;
     font-size: 50px;
     font-weight: 500;
-    margin-top: 10%;
+    margin-top: 7%;
 }
 
 .single-experience{
